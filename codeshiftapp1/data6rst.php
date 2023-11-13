@@ -30,25 +30,7 @@ echo "<div style='color:white;background:red;padding:10px;border:none;'>Connecti
 
 /*
 //error_reporting(0); 
-$tidb_servername = "localhost";
-$tidb_username = "root";
-$tidb_password = "";
-$port = 4000;
-$tidb_db_name ="sampledb";
 
-try {
-
-$db = new PDO("mysql:host=$tidb_servername;dbname=$tidb_db_name;charset=utf8", $tidb_username);
-
-    // set the PDO error mode to exception
-    //$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
- //echo "Tidb Connected successfully  and working."; 
-}
-catch(PDOException $e)
-    {
-    //echo "Connection failed: " . $e->getMessage();
-echo "<div style='color:white;background:red;padding:10px;border:none;'>Connection to TIDB Cloud Database Failed...Check your TIDB Credentials and Internet as well</div>";
-}
 */
 
 
