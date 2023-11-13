@@ -1,6 +1,11 @@
 # Openshift Mysql Admin
+A Mysql Control Panel(CP) for Managing Openshift Mysql Cloud Database Instances...
 
-How Install and Run the Application on Openshift
+# License:  Open Source(MIT)
+https://opensource.org/license/mit/
+
+
+# How Install and Run the Application on Openshift
 
 This application was written in PHP.
 
