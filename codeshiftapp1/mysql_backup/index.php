@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+
+
+</title>
+</head>
+<body>
+
+<br><br><br><center><h1>Openshift Mysql Admin Control Panel</h1><center><br>
+
+<span style='color:red'>Directory Listing Attack Detected and Not Allowed..........</span><br><br>
+
+
+</body>
+</html>
